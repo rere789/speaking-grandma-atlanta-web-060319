@@ -1,6 +1,7 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma(phrase)
   if phrase.uppercase?
+    return "HUH?! SPEAK UP, SUNNY!"
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
